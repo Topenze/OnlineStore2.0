@@ -58,7 +58,7 @@
   border: 0.1rem solid var(--color-foreground-8);
 }
 
-.collage-card:only-child {
+.collage-card:only-child { 
   grid-column: 1;
   width: 100%;
 }
