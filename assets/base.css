@@ -2072,10 +2072,3 @@ details-disclosure > details {
     transform: translateY(0);
   }
 }
-
-.storePreview {
-  color: red;
-  background: white;
-  display: none;
-  visibility: hidden;
-}
